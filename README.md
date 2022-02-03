@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MonochromePapilio
 - 👀 I’m interested in front-end and design
 - 🌱 I’m currently learning typescript, Vue.js and Next.js
-- 💻 Now, I'm developing a product in Python that outputs a random string for study purposes
+- 💻 Now, I'm currently working on a management project using multiple DBs.
 
 <!---
 - 💞️ I’m looking to collaborate on ...
