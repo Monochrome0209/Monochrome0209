@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @MonochromePapilio
-- 👀 I’m interested in front-end and design
+- 👋 Hi, I’m @Monochrome0209
 - 🌱 I’m currently learning typescript, Vue.js and Next.js
-- 💻 Now, I'm currently working on a management project using multiple DBs.
+- 👀 Now, I've been interested in Design Tools and graphic Technorogy, Figma, blender, Three.js, and so on.
 
 <p align="left">
   <a href="https://github.com/Monochrome0209/Monochrome0209/">
