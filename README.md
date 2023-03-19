@@ -3,6 +3,24 @@
 - 🌱 I’m currently learning typescript, Vue.js and Next.js
 - 💻 Now, I'm currently working on a management project using multiple DBs.
 
+<p align="left">
+  <a href="https://github.com/Monochrome0209/Monochrome0209/">
+    <img src="https://komarev.com/ghpvc/?username=Monochrome0209" alt="Monochrome0209" />
+  </a>
+<!--   <a href="http://twitter.com/yutkat">
+    <img height="20" src="https://img.shields.io/twitter/follow/Monochrome0209?label=Twitter&logo=twitter&style=flat" />
+  </a> -->
+  <a href="https://github.com/Monochrome0209">
+    <img height="20" src="https://img.shields.io/github/followers/Monochrome0209?label=follow&logo=github&style=flat" />
+  </a>
+</p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monochrome0209&show_icons=true&theme=dark)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monochrome0209&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
