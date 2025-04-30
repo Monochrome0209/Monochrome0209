@@ -18,7 +18,7 @@
   </a>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Monochrome0209&show_icons=true&theme=dark" width=400>　<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monochrome0209&layout=compact&theme=dark" width=300>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monochrome0209&layout=compact&theme=dark" width=300>
 
 ## MY WORKS
 
