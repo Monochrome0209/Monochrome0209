@@ -5,20 +5,11 @@
 - 👀 Now, I've been interested in Design Tools and graphic Technorogy, Figma, blender, Three.js, and so on.
 - 🔨 I am also currently challenging myself to contribute to Open Source Software (OSS)!
 - 👉 Feed [Mono](https://zenn.dev/monochrome0209/feed)
+- 💎 My Web Site [Monochrome Blog](https://monochrome0209.pages.dev/)
 
 ---
 
-<div align="left">
-  <a href="https://github.com/Monochrome0209/Monochrome0209/">
-    <img src="https://komarev.com/ghpvc/?username=Monochrome0209" alt="Monochrome0209" />
-  </a>
-  
-   <a href="https://github.com/Monochrome0209">
-    <img height="20" src="https://img.shields.io/github/followers/Monochrome0209?label=follow&logo=github&style=flat" />
-  </a>
-</div>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monochrome0209&layout=compact&theme=dark" width=300>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monochrome0209&layout=compact&theme=dark" width=100%>
 
 ## MY WORKS
 
